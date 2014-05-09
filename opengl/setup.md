@@ -17,6 +17,7 @@ sudo apt-get install cmake xorg-dev libglu1-mesa-dev
 ```
 
 * Build and install
+
 ```
 cmake -G "Unix Makefiles"
 make
