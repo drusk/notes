@@ -25,7 +25,9 @@ sudo make install
 
 Install GLEW
 ------------
-TODO
+Download source from http://glew.sourceforge.net/
+
+Untar, make, make install
 
 Install GLM
 -----------
