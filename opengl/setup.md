@@ -32,4 +32,6 @@ Untar, make, make install
 
 Install GLM
 -----------
-TODO
+```
+sudo apt-get install libglm-dev
+```
